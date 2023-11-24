@@ -1,6 +1,6 @@
 # Music-genre-detection-classification
 Music genre detection/classification
-# Music Genre Classification
+
 
 ### Introduction
 
